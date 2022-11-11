@@ -3,7 +3,11 @@ import './style.css';
 
 function Navigation {
     return (
-        
+        <nav>
+            <div className="navig">
+
+            </div>
+        </nav>    
     )
 }
 
