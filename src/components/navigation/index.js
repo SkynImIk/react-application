@@ -1,11 +1,11 @@
 import React from "react";
 import './style.css';
 
-function Navigation {
+function Navigation () {
     return (
         <nav>
-            <div className="navig">
-
+            <div className="">
+                
             </div>
         </nav>    
     )

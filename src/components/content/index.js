@@ -3,7 +3,7 @@ import './style.css';
 
 function Content () {
     return (
-        <div>
+        <div className='container-content'>
             
         </div>
     )
