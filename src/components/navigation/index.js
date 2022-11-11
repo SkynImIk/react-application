@@ -1,8 +1,10 @@
 import React from "react";
 import './style.css';
 
-function Nav {
-
+function Navigation {
+    return (
+        
+    )
 }
 
 export default Navigation;
