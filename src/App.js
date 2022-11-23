@@ -1,6 +1,6 @@
 import './App.css';
 import Menu from './components/navigation';
-import MyCarousel from './components/carous';
+import MyCarousel from './components/carousel';
 import Content from './components/content';
 
 function App() {
