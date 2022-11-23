@@ -4,9 +4,7 @@ import './style.css';
 function Content () {
     return (
         <div className='content'>
-            <Card 
-            
-            />
+            <Card />
          </div>
     )
 }
