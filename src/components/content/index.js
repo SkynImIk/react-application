@@ -3,9 +3,9 @@ import './style.css';
 
 function Content () {
     return (
-        <div className='container-content'>
-            
-        </div>
+        <div className='content'>
+            <Card />
+         </div>
     )
 }
 
