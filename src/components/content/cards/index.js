@@ -3,7 +3,6 @@ import './style.css';
 import 
 
 function Card (props) {
-    return(
     const classNames = [
     'card'
    ];
