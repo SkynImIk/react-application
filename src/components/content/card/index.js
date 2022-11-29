@@ -1,9 +1,10 @@
 import React from "react";
+import { findRenderedDOMComponentWithTag } from "react-dom/test-utils";
 import './style.css'; 
 
 function Card () {
-   return (
-    <div className="bod"></div>
+    return (
+     
     )
 }
 
